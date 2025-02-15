@@ -1,7 +1,11 @@
-**20 Juni 2021**<br>
-Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
-* Belajar konsep OOP (Object-Oriented Programming) untuk mempermudah pengembangan sebuah program.
-* Belajar class-class yang sering digunakan dalam bahasa Java seperti generic, exception, input output, date time, dan casting.
-* Berlatih dengan membuat program untuk menghitung suhu air, vokal konsonan, dan bangun datar.
-* Mengerjakan ujian akhir untuk menilai kemahiran diri
-* Mengerjakan ujian machine learning
+# Halo semua! 
+
+Perkenalkan nama saya **Gilang Ramadhan**.<br>
+
+Saya seorang **Curriculum Developer** di [Dicoding](https://www.dicoding.com/).<br>
+
+Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
+
+Saya juga memiliki gelar Google Associate Android Developer sejak 2019.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/gilang-adhan/)ku ya.
